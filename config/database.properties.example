@@ -1,0 +1,5 @@
+# Copy this file to config/database.properties on your own computer.
+# Do NOT upload actual SQL Server credentials to GitHub.
+url=jdbc:sqlserver://localhost:1433;databaseName=LAN_Chat_Whiteboard;encrypt=true;trustServerCertificate=true
+user=YOUR_SQL_USERNAME
+password=YOUR_SQL_PASSWORD
